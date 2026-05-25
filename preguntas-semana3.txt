@@ -1,5 +1,9 @@
 Pregunta 1:
+<<<<<<< HEAD
 Respuesta : B
+=======
+Respuesta: B
+>>>>>>> c2573dbea9b87e7f938bb48f5c60b84b62d410d9
 
 Pregunta 2:
 Respuesta: B
@@ -8,5 +12,9 @@ Pregunta 3:
 Respuesta: B
 
 Pregunta 4:
+<<<<<<< HEAD
 Respuesta : A
 
+=======
+Respuesta: A
+>>>>>>> c2573dbea9b87e7f938bb48f5c60b84b62d410d9
